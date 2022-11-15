@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "iEuOBYkU",
+      "username": "Random User",
+      "coins": 12
+    },
+    {
+      "id": "0kFaJHB2",
+      "username": "Another User",
+      "coins": 98
+    },
+    {
+      "id": "ukjXyUuM",
+      "username": "Some User",
+      "coins": 100
+    },
+    {
+      "id": "BDUDxb6F",
+      "username": "User User",
+      "coins": 169
+    },
+    {
+      "id": "azAR2URZ",
+      "username": "Some new user",
+      "coins": 29
+    }
+  ]
+}
